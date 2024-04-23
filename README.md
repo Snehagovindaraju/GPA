@@ -1,1 +1,1 @@
-# GPA
+# Simple GPA Calculator
